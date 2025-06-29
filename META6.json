@@ -1,0 +1,28 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Danish localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::DA",
+  "perl": "6.d",
+  "provides": {
+    "L10N::DA": "lib/L10N/DA.rakumod",
+    "RakuAST::Deparse::L10N::DA": "lib/RakuAST/Deparse/L10N/DA.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "Danish"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
